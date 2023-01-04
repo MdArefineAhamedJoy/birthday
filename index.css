@@ -26,15 +26,7 @@
     padding: 1em;
     overflow: hidden;
   }
-  #name{
-    font-weight: bolder;
-    text-transform: uppercase;
-  }
-  .fa-solid{
-    color: pink ;
-    background-color: red;
-    border-radius: 2px;
-  }
+
   @media only screen and (min-width: 1000px) {
     .card {
       flex-direction: row-reverse;
@@ -54,6 +46,15 @@
       width: 100%;
       max-width: 50vw;
       max-height: unset;
+    }
+    #name{
+      font-weight: bolder;
+      text-transform: uppercase;
+    }
+    .fa-solid{
+      color: pink ;
+      background-color: red;
+      border-radius: 2px;
     }
   }
   
