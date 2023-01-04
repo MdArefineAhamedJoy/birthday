@@ -53,8 +53,7 @@
   }
   
   .text {
-
-    border-left: 2px solid palevioletred;
+    padding: 1em;
   }
   
   .muted {
