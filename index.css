@@ -37,7 +37,7 @@
       max-height: unset;
     }
   }
-  
+
   @media only screen and (max-height: 640px) {
     .card {
       flex-direction: row-reverse;
